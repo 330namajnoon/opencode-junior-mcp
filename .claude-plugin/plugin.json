@@ -1,0 +1,10 @@
+{
+  "name": "opencode-junior",
+  "version": "0.1.0",
+  "description": "Senior/junior workflow: Claude plans and reviews while a cheaper model running on opencode does the work, and Claude teaches it with skills when it makes mistakes.",
+  "author": {
+    "name": "Sina Majnoon"
+  },
+  "repository": "https://github.com/330namajnoon/opencode-junior-mcp",
+  "keywords": ["opencode", "mcp", "delegation", "junior", "skills"]
+}

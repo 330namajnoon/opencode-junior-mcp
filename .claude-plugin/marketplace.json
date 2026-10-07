@@ -1,0 +1,16 @@
+{
+  "name": "opencode-junior",
+  "owner": {
+    "name": "Sina Majnoon"
+  },
+  "metadata": {
+    "description": "Delegate work from Claude Code to a cheaper junior model running on opencode."
+  },
+  "plugins": [
+    {
+      "name": "opencode-junior",
+      "source": "./",
+      "description": "Senior/junior workflow: Claude plans and reviews while a cheaper model running on opencode does the work."
+    }
+  ]
+}
